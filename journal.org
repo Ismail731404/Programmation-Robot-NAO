@@ -1,11 +1,16 @@
-RAMDANI Soukaina 
-ALI OMAR Ismail
+* MEMBERS
+* RAMDANI Soukaina 
+* ALI OMAR Ismail
 
-soukaina.ramdani@etu.u-paris.fr 
-liamsi2019@gmail.com
+* soukaina.ramdani@etu.u-paris.fr 
+* liamsi2019@gmail.com
 
-0753107819
-0652399997
+* 0753107819
+* 0652399997
 
-Choix de Projet: NAO
+* Choix de Projet: NAO
 
+* 3/11/2020
+** A FAIRE
+** Comprendre si le projet sur des simulateurs du NAO
+** et reflechir à un autre projet si necessaire.
