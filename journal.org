@@ -8,9 +8,22 @@
 * 0753107819
 * 0652399997
 
+
 * Choix de Projet: NAO
 
-* 3/11/2020
+* <3/11/2020>
 ** A FAIRE
 ** Comprendre si le projet sur des simulateurs du NAO
 ** et reflechir à un autre projet si necessaire.
+
+
+* <18/11/2020>
+** FAIRE:
+*** Trouver renseignements sur les simulateurs
+*** Pas des idées sur quoi faire le NAO
+** A FAIRE:
+*** Penser à un projet à realiser:
+*** Quel est l'objectif du projet ?
+*** Pourquoi utiliser le robot NAO ?
+*** Quel sont les tachês pour realiser le projet ?
+*** Quel est le plan (i.e. cahier des charges)
