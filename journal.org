@@ -1,8 +1,8 @@
 * MEMBERS
-* RAMDANI Soukaina 
+* RAMDANI Soukaina
 * ALI OMAR Ismail
 
-* soukaina.ramdani@etu.u-paris.fr 
+* soukaina.ramdani@etu.u-paris.fr
 * liamsi2019@gmail.com
 
 * 0753107819
@@ -27,3 +27,13 @@
 *** Pourquoi utiliser le robot NAO ?
 *** Quel sont les tachês pour realiser le projet ?
 *** Quel est le plan (i.e. cahier des charges)
+
+
+* 09/12/2020
+** FAIT:
+*** Idée de projet : reconnaître différents types de déchêts et les placer dans
+   la bonne poubelle
+** À FAIRE :
+*** faire marcher webot avec choregraph avec ancienne version (R2019)
+*** reconnaissance des déchêts : canette ou boule de papier
+*** quelle bibliothèque utiliser (API NAO ?)
