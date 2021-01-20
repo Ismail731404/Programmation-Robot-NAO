@@ -37,3 +37,10 @@
 *** faire marcher webot avec choregraph avec ancienne version (R2019)
 *** reconnaissance des déchêts : canette ou boule de papier
 *** quelle bibliothèque utiliser (API NAO ?)
+    
+
+* 20/01/2021
+** FAIT:
+** Essayé le simulateurs du NAO, il y a rien qui marcher
+** A FAIRE
+** Commencer à preparer un exposé sur les problèmes des simulateur
