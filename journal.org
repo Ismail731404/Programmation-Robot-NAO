@@ -37,10 +37,24 @@
 *** faire marcher webot avec choregraph avec ancienne version (R2019)
 *** reconnaissance des déchêts : canette ou boule de papier
 *** quelle bibliothèque utiliser (API NAO ?)
-    
+
 
 * 20/01/2021
 ** FAIT:
 ** Essayé le simulateurs du NAO, il y a rien qui marcher
 ** A FAIRE
 ** Commencer à preparer un exposé sur les problèmes des simulateur
+
+* <03/02/2021>
+** FAIT
+*** Premiers essais avec le Nao
+*** Utilisation du langage graphique (sauf reco qui ne semble pas marcher)
+
+* <10/02/2021>
+** FAIT
+*** installation de la bibliothèque NaoQi
+*** Quelques essais de modification de "blocks"
+** À FAIRE
+*** faire fonctionner (import naoqi) pour éviter d'utiliser choregraphe
+*** OU comprendre comment utiliser une bibliothèque indépendante avec choregraphe
+*** faire tourner un programme indépendant sur le Nao (behaviour?)
