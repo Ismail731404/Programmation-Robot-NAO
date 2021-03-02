@@ -58,3 +58,8 @@
 *** faire fonctionner (import naoqi) pour éviter d'utiliser choregraphe
 *** OU comprendre comment utiliser une bibliothèque indépendante avec choregraphe
 *** faire tourner un programme indépendant sur le Nao (behaviour?)
+
+* <24/02/2021>
+** FAIT :
+*** répère une cible
+** À Faire : se diriger vers l'objet détecter, puis l'attraper
