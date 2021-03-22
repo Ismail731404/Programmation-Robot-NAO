@@ -59,7 +59,54 @@
 *** OU comprendre comment utiliser une bibliothèque indépendante avec choregraphe
 *** faire tourner un programme indépendant sur le Nao (behaviour?)
 
+* <17/02/2021>
+** Problemes rencontres:
+
+**** Reconnaisance des Objets , mal reconnue par le NAO
+**** Defoix meme l'objet n'est pas reconnu par le Nao 
+
+** solution envisagee:
+   - Utilisation de liberairie ImageAi en Python
+   - Utilisation des Marques speciales pour le NAO appelees NaoMark
+ 
+
 * <24/02/2021>
 ** FAIT :
-*** répère une cible
+*** Mise a jour des Naoqi, installer naoqi 2.8
+*** Recherche le cible de Marque NaoMark et se deplace en parralle
+*** répère une cible en utilisant le NAOMARK
+**Probleme rencontre : 
+   --Les Programmes s'execute en Boucle sur le Nao meme si on arrete
+   --Les comportement par defaut qui consiste a suivre tout le mouvement
+      exterieur du Nao nous a pose de probleme lors de recherche de cible
+      
 ** À Faire : se diriger vers l'objet détecter, puis l'attraper
+
+
+* <03/03/2021>
+** FAIT : 
+*** Nous avons realise une parti des objectifs fixes la semaine precedente.
+*** Aller vers l'objet en calculant la distance qui lui separe
+*** S'arreter
+**Probleme rencontre :
+ --Just Avant de d'arrive devant la cible Nao se tourne vers gauche ou droit
+**Solution envisagee:
+ -- Revoir la libraire de movement et les axes repere du NAO  
+** A faire :
+    - Pouvoir prendre l'objet dans ses main et se relever sans perdre l'equilibrement
+    
+* <17/03/2021>
+**FAIT :
+*** Cette semaine nous avons teste la librairie ImageIA 
+*** En utilisant le webcam du pc 
+*** Reconnais Plusieur Objet Facilement  
+**Problemes rencontres :
+    - Naoqi utilise python 2.7 et ImageIA utilise python 3.6
+    - Donc probleme de Synthese de code
+**Solution envisage :
+    - Faire fonctione la librairi ImageIA en utilisant python 2.7
+** A faire :
+    - Utilisation de camera de Nao au lieu Webcom du pc
+  
+
+        
