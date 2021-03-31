@@ -100,10 +100,10 @@
 *** Cette semaine nous avons teste la librairie ImageIA 
 *** En utilisant le webcam du pc 
 *** Reconnais Plusieur Objet Facilement  
-**Problemes rencontres :
+** Problemes rencontres :
     - Naoqi utilise python 2.7 et ImageIA utilise python 3.6
     - Donc probleme de Synthese de code
-**Solution envisage :
+** Solution envisage :
     - Faire fonctione la librairi ImageIA en utilisant python 2.7
 ** A faire :
     - Utilisation de camera de Nao au lieu Webcom du pc
@@ -114,16 +114,16 @@
 *** Traduction du langage graphique au langage Python 
 *** Redefinition du structure du projet 
 *** Nous avons defini 4 dossier
-     --Deplacement
-     --Prendre Objets
-     --RechercheNaoMark
-     --Recherche Objets Boubelle 
-     -- et la classe Main la classe principale
+    - Deplacement
+    - Prendre Objets
+    - RechercheNaoMark
+    - Recherche Objets Boubelle 
+    - et la classe Main la classe principale
      
-***Problemes rencontres :
-    -- la traduction de deplacement autonome du Nao n'est pas reussi 
-***A faire:
-     -- Complete la traduction du langage graphique 
+*** Problemes rencontres :
+        - la traduction de deplacement autonome du Nao n'est pas reussi 
+*** A faire:
+        - Complete la traduction du langage graphique 
   
 
         
