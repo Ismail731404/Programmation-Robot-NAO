@@ -126,9 +126,9 @@
         - Complete la traduction du langage graphique 
 
 * <07/04/2021>
-**FAIT :
-***Nous avons realise les objectifs fixes la semaine precedente
-***Nous avons aussi realise d'autre fonctionalite comme
+** FAIT :
+*** Nous avons realise les objectifs fixes la semaine precedente
+*** Nous avons aussi realise d'autre fonctionalite comme
     - deplacement autonome d'un mettre, et si il y a un obstacle cherche une autre chemin
     - deplacement de Nao avec les main immobiller
     - Amelioration de recherche
