@@ -111,7 +111,7 @@
     
 * <31/03/2021>
 ** FAIT :
-*** Traduction du langage graphique au langage Python 
+*** Traduction du langage  graphique au langage Python 
 *** Redefinition du structure du projet 
 *** Nous avons defini 4 dossier
     - Deplacement
@@ -124,6 +124,19 @@
         - la traduction de deplacement autonome du Nao n'est pas reussi 
 *** A faire:
         - Complete la traduction du langage graphique 
+
+* <07/04/2021>
+**FAIT :
+***Nous avons realise les objectifs fixes la semaine precedente
+***Nous avons aussi realise d'autre fonctionalite comme
+    - deplacement autonome d'un mettre, et si il y a un obstacle cherche une autre chemin
+    - deplacement de Nao avec les main immobiller
+    - Amelioration de recherche
+    - Se deplace avec un objet jusqua le poubelle et mettre dedant
+    
+*** A faire:
+    - Amelioration de deplacement autonome, et recherche de poubelle 
+    
   
 
         
