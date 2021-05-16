@@ -1,12 +1,23 @@
 from naoqi import ALProxy
 from RechercheNaoMark.Recherche import Recherche
 from Deplacement.GereMovement import GereMovement
+from NaoDetect.NaoResearchObject import NaoResearchObject
 import qi
 import argparse
 import sys
 import time
 import almath
 import math
+import os
+import urllib
+
+
+#opload model yolo-tiny.h5
+if os.path.isdir("NaoModels"):
+    pass
+else:
+    os.makedirs("NaoModels")
+urllib.urlretrieve("https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo-tiny.h5/", "NaoModels/yolo-tiny.h5")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--ip", type=str, default="192.168.43.166", help="Robot IP address. On robot or Local Naoqi: use "
@@ -26,6 +37,13 @@ except RuntimeError:
     sys.exit(1)
 # Start the session
 app.start()
+main = NaoResearchObject(app)
+found = main.detect_object()
+if found: #nao detect the object and pick it up
+    pass
+else: #nao didn't detect the object
+    sys.exit(100) 
+    
 # Object deja Trouve Recherche D'un boubelle
 motion_service = app.session.service("ALMotion")
 posture_service = app.session.service("ALRobotPosture")
